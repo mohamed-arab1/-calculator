@@ -1,0 +1,12 @@
+@media (max-width : 575px){
+    .styled{
+        grid-template-columns: repeat(4, 70px) !important;
+        width: 280px !important;
+    }
+} 
+/* @media (max-width : 400px){
+    .styled{
+        grid-template-columns: repeat(4, 75px) !important;
+        width: 300px !important;
+    }
+} */
